@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="insight-app-sec-validation" content="8a27078a-044d-4c41-ac99-17baca3cb959">
+    <meta name="insight-app-sec-validation" content="93ac790e-c428-4da5-bb9e-e621af234938">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
